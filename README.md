@@ -21,3 +21,8 @@ Sarvesh
 Step 3 (Manual) : Send message on Linkedin (preferred) / Email (if you have one but risk of being blocked by their company's email blocker)
 
 
+
+
+
+# Brainstoming
+Now it does not makes sense to analyse linkedin post of recruiters (HRs) it only makes sense to analyse linkedin post of hiring manager becuase they will post technical stuff and not the HRs
