@@ -25,4 +25,5 @@ Step 3 (Manual) : Send message on Linkedin (preferred) / Email (if you have one 
 
 
 # Brainstoming
-Now it does not makes sense to analyse linkedin post of recruiters (HRs) it only makes sense to analyse linkedin post of hiring manager becuase they will post technical stuff and not the HRs
+- Now it does not makes sense to analyse linkedin post of recruiters (HRs) it only makes sense to analyse linkedin post of hiring manager becuase they will post technical stuff and not the HRs
+- Got to know that cold emailing works for both big tech like google / meta and also for startups
