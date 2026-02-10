@@ -18,6 +18,6 @@ Sarvesh
 '''
 
 
-Step 3 : Send message on Linkedin (preferred) / Email (if you have one but risk of being blocked by their company's email blocker)
+Step 3 (Manual) : Send message on Linkedin (preferred) / Email (if you have one but risk of being blocked by their company's email blocker)
 
 
