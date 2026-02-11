@@ -18,7 +18,7 @@ Sarvesh
 '''
 
 
-Step 3 (Manual) : Send message on Linkedin (preferred) / Email (if you have one but risk of being blocked by their company's email blocker)
+Step 3 (Manual) : Send message on Linkedin (preferred) / Email (if you have one but risk of being blocked by their company's email blocker) (cold emailing works bro no doubut use websites like appolo / hunter to get emails and mail hiring managers and HRs)
 
 
 
