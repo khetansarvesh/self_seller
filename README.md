@@ -17,6 +17,10 @@ Thanks,
 Sarvesh
 '''
 
+Some reference documents (access via khetan mamta gmail account):
+- [Networking Protocol](https://docs.google.com/document/d/1q7_xWUewKSzVaD2ZMKpTqYvMvesjW0PF9FVGy4RvJIg/edit?tab=t.0)
+- [Founder's Guide](https://docs.google.com/document/d/1ueerWvAcyvv5-Zp2R9quP4fq6yEWlx0u1ups5vRG_i8/edit?tab=t.0)
+
 
 Step 3 (Manual) : Send message on Linkedin (preferred) / Email (if you have one but risk of being blocked by their company's email blocker) (cold emailing works bro no doubut use websites like appolo / hunter to get emails and mail hiring managers and HRs)
 
